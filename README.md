@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Althea .Im 19 years old.
+- 👋 Hi, I’m @Althea .Im 20 years old.
 - 👀 I’m interested learning html and css.
 - 🌱 I’m currently studying course Information Technology.
 
